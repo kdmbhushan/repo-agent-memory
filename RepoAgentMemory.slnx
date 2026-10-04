@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RepoAgentMemory.Cli/RepoAgentMemory.Cli.csproj" />
+    <Project Path="src/RepoAgentMemory.Core/RepoAgentMemory.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RepoAgentMemory.Tests/RepoAgentMemory.Tests.csproj" />
+  </Folder>
+</Solution>
